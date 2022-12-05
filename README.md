@@ -11,7 +11,8 @@ The features are as follows:
 * A brief description of what Delani does
 * Sample of a portfolio
 * An invitation for contact
-
+## How to Install and Run the Project
+* clone the repository and use your choice of the editor
 ## Known Bugs
 Toggling between images and text not working as expected
 ## Software used
@@ -19,7 +20,7 @@ Toggling between images and text not working as expected
 * Boostrap
 * jQuery
 ## Github Page
-You can view the code at https://github.com/Jack-Nesta/IP-Week-3
+The code is available at https://github.com/Jack-Nesta/IP-Week-3
 ## Licence
 MIT License
 
