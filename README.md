@@ -9,6 +9,8 @@ This webpage showcases the landing page of Delani Studio, a firm that engages in
 The features are as follows:
 * A landing page
 * A brief description of what Delani does
+* Sample of a portfolio
+* An invitation for contact
 
 ## Known Bugs
 Toggling between images and text not working as expected
